@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\DelegateAssignment\bin\Debug\net8.0\DelegateAssignment.exe
+C:\Users\USER\Desktop\DelegateAssignment\bin\Debug\net8.0\DelegateAssignment.deps.json
+C:\Users\USER\Desktop\DelegateAssignment\bin\Debug\net8.0\DelegateAssignment.runtimeconfig.json
+C:\Users\USER\Desktop\DelegateAssignment\bin\Debug\net8.0\DelegateAssignment.dll
+C:\Users\USER\Desktop\DelegateAssignment\bin\Debug\net8.0\DelegateAssignment.pdb
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.AssemblyInfo.cs
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.dll
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\refint\DelegateAssignment.dll
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.pdb
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\DelegateAssignment.genruntimeconfig.cache
+C:\Users\USER\Desktop\DelegateAssignment\obj\Debug\net8.0\ref\DelegateAssignment.dll
